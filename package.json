@@ -38,7 +38,7 @@
   "optionalDependencies": {},
   "browser": {
     "./echo-server.js": "./fake-server.js",
-    "./index.js": "./stream.js",
+    "./main.js": "./stream.js",
     "ws": "./ws-fallback.js"
   },
   "bugs": {
